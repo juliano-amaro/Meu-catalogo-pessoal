@@ -19,7 +19,7 @@
         "id": "3",
         "titulo":"Homem de Ferro 2",
         "ano": "2010",
-        "produtora": "Marvel",
+        "produtora": "Marvel Studios",
         "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsLI1wzKYyvP6uaV0khMCiITb5ix2vYWfDA&s"
     },
 
@@ -27,7 +27,7 @@
         "id": "4",
         "titulo": "Homem Aranha",
         "ano": "2002",
-        "produtora": "Marvel",
+        "produtora": "Marvel Studios",
         "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafFM4t70myH6gugXRinkXP1ULxbZpVVN_Cg&s"
     },
 
@@ -45,5 +45,21 @@
         "ano": "2010",
         "produtora": "Icon Comics",
         "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUm7FgfIaW-KXWgagqvC-Mcev1qCcKHkbyag&s"
+    },
+
+    {
+        "id": "7",
+        "titulo":"Meu Malvado Favorito 2",
+        "ano": "2013",
+        "produtora": "Illumination",
+        "imagem": "https://m.media-amazon.com/images/S/pv-target-images/7d6f42425ef00d2053f72b58f38ebb0e33109ba5f0f43784c9a4d405d9c9acc5.jpg"
+    },
+
+    {
+        "id": "8",
+        "titulo":"Deadpool & Wolverine",
+        "ano": "2024",
+        "produtora": "Marvel Studios",
+        "imagem": "https://cinesiageek.com.br/wp-content/uploads/2024/07/deadpool-wolverine-destaque.jpg"
     }
 ]

@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
 
   contentcards: {
-    height: "80%",
+    height: "90%",
     width: '100%',
     display: 'flex',
     flexDirection: 'row',
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
   },
 
   contenttitle: {
-    height: '20%',
+    height: '10%',
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     borderRadius: 12,
-    marginBottom: 5,
+    marginBottom: 10,
     marginRight: 5,
     marginLeft: 5,
   },
